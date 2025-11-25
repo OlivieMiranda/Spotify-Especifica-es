@@ -11,9 +11,11 @@ Ver como um sistema entrega estabilidade ao reproduzir músicas de forma direta 
 ### Requisitos Funcionais (RF)
 | ID | Descrição | Prioridade |
 |----|------------|-----------|
-| RF01 | O usuário deve poder realizar login no sistema. |Essencial|
-| RF02 | O sistema deve permitir o cadastro de tarefas. |Essencial |
-| RF03 | O usuário pode excluir uma tarefa cadastrada. | Essencial |
+| RF01 | O sistema deve permitir que o usuário crie uma conta utilizando e-mail, senha ou login por redes sociais.|Essencial|
+| RF02 | O sistema deve permitir que o usuário busque músicas, artistas, álbuns e playlists.|Essencial |
+| RF03 | O sistema deve permitir a criação e edição de playlists personalizadas. | Importante |
+| RF04 | O sistema deve permitir que o usuário baixe músicas para ouvir offline (função premium).|Desejável |
+| RF05 | O sistema deve permitir que o usuário reproduza músicas, com opções de pausar, avançar e retroceder faixas. | Essencial |
 
 ### Requisitos Não Funcionais (RNF)
 | ID | Descrição | Prioridade |
