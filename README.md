@@ -20,9 +20,11 @@ Ver como um sistema entrega estabilidade ao reproduzir músicas de forma direta 
 ### Requisitos Não Funcionais (RNF)
 | ID | Descrição | Prioridade |
 |----|------------|-----------|
-| RNF01 | O sistema deve responder em até 2 segundos por requisição. | Essencial |
-| RNF02 | O acesso deve ser protegido por autenticação segura. | Essencial |
-| RNF03 | A interface deve ser intuitiva e responsiva. | Essencial |
+| RNF01 | O sistema deve permanecer disponível 99,9% do tempo, garantindo acesso contínuo às músicas e playlists. | Essencial |
+| RNF02 | O sistema deve responder às ações do usuário em até 2 segundos. | Importante |
+| RNF03 | O sistema deve criptografar todas as senhas dos usuários utilizando o algoritmo SHA-256.| Essencial |
+| RNF04 | O sistema deve ser compatível com dispositivos Android, iOS e versão Web. | Importante |
+| RNF05 | O sistema deve possuir interface intuitiva, responsiva e com suporte ao modo escuro.| Desejável |
 
 ### Regras de Negócio (RN)
 | ID | Descrição | Prioridade |
