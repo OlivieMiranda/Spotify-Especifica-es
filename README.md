@@ -1,8 +1,8 @@
 # Especificação de Requisitos do Sistema (ERS/SRS)
 
 ## Descrição Geral do Sistema
-O sistema tem como objetivo [**descrever brevemente a finalidade e escopo geral do sistema**].  
-Inclui o perfil dos usuários, principais funcionalidades e contexto de operação.
+O sistema Spotify é um app de Streaming de Músicas.  
+Ver como um sistema entrega estabilidade ao reproduzir músicas de forma direta e sem interrupções em servidores dedicados.
 
 ---
 
