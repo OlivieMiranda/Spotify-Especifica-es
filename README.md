@@ -29,8 +29,11 @@ Ver como um sistema entrega estabilidade ao reproduzir músicas de forma direta 
 ### Regras de Negócio (RN)
 | ID | Descrição | Prioridade |
 |----|------------| -----------|
-| RN01 | Cada usuário deve possuir um e-mail único para cadastro. | Essencial |
-| RN02 | Uma tarefa concluída não pode ser editada. | Essencial | Essencial |
+| RN01 | Apenas usuários premium podem baixar músicas para ouvir offline. | Essencial |
+| RN02 | Usuários do plano gratuito devem ouvir anúncios de áudio entre as músicas. | Importante |
+| RN03 | Usuários gratuitos podem pular no máximo 6 músicas por hora. | Importante |
+| RN04 | Playlists públicas podem ser seguidas por outros usuários, mas somente o criador pode editá-las. | Desejável |
+| RN05 | O sistema deve oferecer planos premium personalizados com base no comportamento de uso do usuário. | Desejável |
 
 ---
 
