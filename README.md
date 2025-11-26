@@ -40,23 +40,23 @@ Ver como um sistema entrega estabilidade ao reproduzir músicas de forma direta 
 ## Diagramas UML
 
 ### Diagrama de Casos de Uso
-![Diagrama de Casos de Uso](docs/Diagrama de Caso de Uso.jpeg)
+![Diagrama de Casos de Uso](docs/DiagramadeCasodeUso.jpeg)
 
 ### Diagrama de Sequência
-![Diagrama de Sequência: Baixar Músicas](docs/Sequência Baixar Músicas.jpeg)
+![Diagrama de Sequência: Baixar Músicas](docs/SequênciaBaixarMúsicas.jpeg)
 
-![Diagrama de Sequência: Buscar Conteúdo](docs/Sequência Buscar Conteúdo.jpeg)
+![Diagrama de Sequência: Buscar Conteúdo](docs/SequênciaBuscarConteúdo.jpeg)
 
-![Diagrama de Sequência: Criar Conta](docs/Sequência Criar Conta.jpeg)
+![Diagrama de Sequência: Criar Conta](docs/SequênciaCriarConta.jpeg)
 
-![Diagrama de Sequência: Fazer Login](docs/Sequência Fazer Login.jpeg)
+![Diagrama de Sequência: Fazer Login](docs/SequênciaFazerLogin.jpeg)
 
-![Diagrama de Sequência: Gerar Playlist](docs/Sequência Gerar Playlist.jpeg)
+![Diagrama de Sequência: Gerar Playlist](docs/SequênciaGerarPlaylist.jpeg)
 
-![Diagrama de Sequência: Reproduzir Música (Plano Gratuito)](docs/Sequência Reproduzir Música (PlanoGratuito).jpeg)
+![Diagrama de Sequência: Reproduzir Música (Plano Gratuito)](docs/SequênciaReproduzirMúsica(PlanoGratuito).jpeg)
 
 ### Diagrama de Atividades
-![Diagrama de Atividades](docs/Diagrama de Atividade.jpeg)
+![Diagrama de Atividades](docs/DiagramadeAtividade.jpeg)
 
 ---
 
