@@ -1,3 +1,5 @@
+Aluno: Olivie
+
 # Especificação de Requisitos do Sistema (ERS/SRS)
 
 ## Descrição Geral do Sistema
